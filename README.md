@@ -58,4 +58,4 @@
 </p>
 
 ---
-![LeetCode Stats](https://leetcard.jacoblin.cool/Rageemonl?theme=light&font=Arimo&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Rageemon?theme=dark&font=Noto%20Sans&ext=heatmap)
