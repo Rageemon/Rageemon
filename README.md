@@ -131,16 +131,6 @@ const vinayak = {
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rageemon&repo=your-awesome-project&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/Rageemon/your-awesome-project)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rageemon&repo=another-cool-project&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/Rageemon/another-cool-project)
-
-</div>
-
----
 
 ## 🐍 Contribution Graph
 
