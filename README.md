@@ -8,7 +8,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%F0%9F%9A%80;DSA+Problem+Solver+%F0%9F%A7%A9;AI+%26+ML+Explorer+%F0%9F%A4%96;Open+Source+Enthusiast+%E2%9D%A4%EF%B8%8F;Always+Learning+Something+New+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=2500&pause=800&color=A855F7&background=0F0F23&center=true&vCenter=true&multiline=false&width=900&height=80&lines=Full+Stack+Developer+%F0%9F%9A%80;DSA+Problem+Solver+%F0%9F%A7%A9;AI+%26+ML+Explorer+%F0%9F%A4%96;Open+Source+Enthusiast+%E2%9D%A4%EF%B8%8F;Always+Learning+Something+New+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 </div>
 
@@ -129,8 +129,8 @@ const vinayak = {
 
 </div>
 
----
 
+---
 
 ## 🐍 Contribution Graph
 
