@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Vinayak Patnaik!
+# 👋 Hey, I'm Vinayak Patnaik!
 
 <div align="center">
   
