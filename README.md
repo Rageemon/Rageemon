@@ -123,7 +123,7 @@ const vinayak = {
 </a>
 
 ### 📊 Problem Solving Stats
-![LeetCode](https://img.shields.io/badge/LeetCode-400%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![LeetCode](https://img.shields.io/badge/LeetCode-120%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![CodeChef](https://img.shields.io/badge/CodeChef-Active%20Solver-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
 ![HackerRank](https://img.shields.io/badge/HackerRank-Problem%20Solver-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
 
